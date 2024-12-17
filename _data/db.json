@@ -1,0 +1,84 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "name": "Huzaifa",
+      "age": "24",
+      "height": "large",
+      "weight": "60",
+      "user_email": "huziafa@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "yahya",
+      "age": "12",
+      "height": "medium",
+      "weight": "40",
+      "user_email": "huziafa@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "raveen",
+      "age": "11",
+      "height": "medium",
+      "weight": "45",
+      "user_email": "huziafa@gmail.com"
+    },
+    {
+      "id": "0eea",
+      "name": "bb",
+      "age": "bb",
+      "height": "b",
+      "weight": "b",
+      "user_email": "huzaifa@gmail.com"
+    },
+    {
+      "id": "f037",
+      "name": "z",
+      "age": "z",
+      "height": "z",
+      "weight": "z",
+      "user_email": "huzaifa@gmail.com"
+    },
+    {
+      "id": "e18d",
+      "name": "f",
+      "age": "f",
+      "height": "ff",
+      "weight": "f",
+      "user_email": "huzaifa@gmail.com"
+    },
+    {
+      "id": "bd40",
+      "name": "c",
+      "age": "c",
+      "height": "c",
+      "weight": "c",
+      "user_email": "huzaifa@gmail.com"
+    },
+    {
+      "id": "9e34",
+      "name": "ff",
+      "age": "f",
+      "height": "f",
+      "weight": "f",
+      "user_email": "huzaifa@gmail.com"
+    },
+    {
+      "id": "9f57",
+      "name": "g",
+      "age": "g",
+      "height": "g",
+      "weight": "g",
+      "user_email": "huzaifa@gmail.com"
+    },
+    {
+      "id": "fbe9",
+      "name": "b",
+      "age": "b",
+      "height": "b",
+      "weight": "b",
+      "user_email": "huzaifa@gmail.com"
+    }
+  ]
+}
